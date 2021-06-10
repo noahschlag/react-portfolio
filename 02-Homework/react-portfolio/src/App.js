@@ -1,6 +1,6 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
-import { Header, Footer, PageTitle } from './components/common'
+import { Header, Footer, PageTitle, Contact } from './components/common'
 
 import './App.css';
 
@@ -11,6 +11,9 @@ function App() {
           <Switch>
             <Route path="/contact">
               <PageTitle title="Contact"/>
+                <div className="Contact-html">
+                  <Contact />
+                </div>
             </Route>
             <Route path="/Portfolio">
               <PageTitle title="Portfolio"/>
