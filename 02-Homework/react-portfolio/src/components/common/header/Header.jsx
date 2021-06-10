@@ -1,4 +1,7 @@
 import React from 'react';
+import { Navbar } from '../../common';
+
+import './Header.css';
 
 function Header () {
     return (
@@ -8,7 +11,7 @@ function Header () {
                     <a href="/" className="header-logo">logo</a> 
                 </section>
                 <section className="header-top_navbar">
-                    {/* //{navbar /} */}
+                    <Navbar />
                 </section>
             </section>
             <section className="header-bottom">
