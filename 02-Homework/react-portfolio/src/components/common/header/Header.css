@@ -1,0 +1,28 @@
+.header-logo {
+    font-size: 100px;
+    margin-left: -900px;
+    color: inherit;
+    text-decoration: inherit;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header-top_logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+.header-top_navbar {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+
+}
+.header-bottom_phone-number {
+    margin-left: 200px;
+}
+.header-bottom_email {
+    margin-left: 200px;
+}
+.header-bottom {
+
+}
