@@ -5,12 +5,12 @@ import './Footer.css';
 function Footer() {
 
     return (
-        <section>
-            <hr />
-            <section>
+        <section className="footer">
+            <hr className="footer-seperator"/>
+            <section className="footer-social-media">
                 <a href="/">Social</a>
             </section>
-            <section>
+            <section className="footer-info">
                 <section className="footer-info-left">
                     <section className="footer-info__name">
                         Created By Noah Schlag
@@ -33,6 +33,9 @@ function Footer() {
                 </section>
             </section>
             <section className="footer-info-right">
+            <section className="footer-info__number">
+            651-784-2097
+            </section>
                 <section className="footer-info__contact">
                     About Me
                     <br />
@@ -44,8 +47,5 @@ function Footer() {
     )
 
 }
-
-export default Footer;
-
 
 export default Footer;
