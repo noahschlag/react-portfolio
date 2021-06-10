@@ -8,7 +8,7 @@ function Header () {
         <section className="header">
             <section className="header-top">
                 <section className="header-top-logo">
-                    <a href="/" className="header-logo">logo</a> 
+                    <a className="header-logo">Noah Schlag</a> 
                 </section>
                 <section className="header-top_navbar">
                     <Navbar />

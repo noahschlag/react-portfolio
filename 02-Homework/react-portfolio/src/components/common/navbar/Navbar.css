@@ -13,3 +13,6 @@
     text-transform: uppercase;
     outline: none;
 }
+.navbar-item:hover {
+    background-color: coral;
+}
