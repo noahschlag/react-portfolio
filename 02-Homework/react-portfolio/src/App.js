@@ -6,6 +6,14 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <Footer />
     </div>
   );
