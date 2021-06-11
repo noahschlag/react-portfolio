@@ -5,15 +5,15 @@
     "main.js.map": "/noahschlag/react-portfolio/static/js/main.a6b16f30.chunk.js.map",
     "runtime-main.js": "/noahschlag/react-portfolio/static/js/runtime-main.1edd3c93.js",
     "runtime-main.js.map": "/noahschlag/react-portfolio/static/js/runtime-main.1edd3c93.js.map",
-    "static/js/2.5b268785.chunk.js": "/noahschlag/react-portfolio/static/js/2.5b268785.chunk.js",
-    "static/js/2.5b268785.chunk.js.map": "/noahschlag/react-portfolio/static/js/2.5b268785.chunk.js.map",
+    "static/js/2.bf4b4c4b.chunk.js": "/noahschlag/react-portfolio/static/js/2.bf4b4c4b.chunk.js",
+    "static/js/2.bf4b4c4b.chunk.js.map": "/noahschlag/react-portfolio/static/js/2.bf4b4c4b.chunk.js.map",
     "index.html": "/noahschlag/react-portfolio/index.html",
     "static/css/main.37cb01fd.chunk.css.map": "/noahschlag/react-portfolio/static/css/main.37cb01fd.chunk.css.map",
-    "static/js/2.5b268785.chunk.js.LICENSE.txt": "/noahschlag/react-portfolio/static/js/2.5b268785.chunk.js.LICENSE.txt"
+    "static/js/2.bf4b4c4b.chunk.js.LICENSE.txt": "/noahschlag/react-portfolio/static/js/2.bf4b4c4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1edd3c93.js",
-    "static/js/2.5b268785.chunk.js",
+    "static/js/2.bf4b4c4b.chunk.js",
     "static/css/main.37cb01fd.chunk.css",
     "static/js/main.a6b16f30.chunk.js"
   ]
