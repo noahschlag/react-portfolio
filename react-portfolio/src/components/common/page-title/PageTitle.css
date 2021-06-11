@@ -1,0 +1,8 @@
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px;
+}

@@ -1,0 +1,49 @@
+.project-1  {
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 30%;
+    background-color: coral;
+}
+.project-2 {
+    font-size: medium;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 30%;
+    margin-left: 35%;
+    background-color: coral;
+}
+.project-3 {
+    font-size: medium;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 30%;
+    margin-left: 70%;
+    background-color: coral;
+    border-color: black;
+}
+.project-2_description {
+    font-size: medium;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+}
+.project-1_description {
+    font-size: medium;
+    flex-direction: column;
+    justify-content: center;
+}
+.project-3_description {
+    font-size: 12px;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: bold;
+}
+a {
+    color: black;
+}
+
+a:hover {
+    background-color: white;
+}
