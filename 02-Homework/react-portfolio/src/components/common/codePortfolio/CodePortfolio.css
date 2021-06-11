@@ -1,0 +1,45 @@
+.code-portfolio {
+
+}
+.project-1  {
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 30%;
+    background-color: grey;
+}
+.project-2 {
+    font-size: medium;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 100%;
+    background-color: grey;
+}
+.project-3 {
+    font-size: medium;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 180%;
+    background-color: grey;
+    border-color: black;
+}
+.project-2_description {
+    font-size: small;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+}
+.project-1_description {
+    font-size: small;
+    flex-direction: column;
+    justify-content: center;
+}
+.project-3_description {
+    font-size: small;
+    flex-direction: column;
+    justify-content: center;
+}
+a {
+    color: black;
+}

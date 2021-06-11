@@ -3,6 +3,11 @@ import Navbar from './navbar';
 import Footer from './footer';
 import PageTitle from './page-title';
 import Contact from './Contact';
+import Portfolio from './portfolio';
+import CodePortfolio from './codePortfolio';
+import AboutMe from './AboutMe';
+
+
 
 
 export {
@@ -11,6 +16,9 @@ export {
     Footer,
     PageTitle,
     Contact,
+    Portfolio,
+    CodePortfolio,
+    AboutMe,
     
 
 }

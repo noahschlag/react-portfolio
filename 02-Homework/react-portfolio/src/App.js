@@ -1,6 +1,6 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
-import { Header, Footer, PageTitle, Contact } from './components/common'
+import { Header, Footer, PageTitle, Contact, AboutMe, CodePortfolio, Portfolio } from './components/common'
 
 import './App.css';
 
@@ -17,15 +17,18 @@ function App() {
             </Route>
             <Route path="/Portfolio">
               <PageTitle title="Portfolio"/>
+              <Portfolio />
             </Route>
             <Route path="/Code-Portfolio">
-              <PageTitle title="Code-Portfolio"/>
+              <PageTitle title="Code Portfolio"/>
+              <CodePortfolio />
             </Route>
             <Route path="/Contact">
               <PageTitle title="Contact"/>
             </Route>
             <Route path="/About-me">
               <PageTitle title="About-Me"/>
+                <AboutMe />
             </Route>
             <Route path="/">
               <PageTitle title="home"/>

@@ -8,7 +8,7 @@ function Footer() {
         <section className="footer">
             <hr className="footer-seperator" />
             <section className="footer-social-media">
-                <a href="/">Social</a>
+                <a href="https://github.com/noahschlag">Github</a>
             </section>
             <section className="footer-info">
                 <section className="footer-info-left">
