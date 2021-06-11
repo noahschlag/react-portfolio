@@ -1,6 +1,6 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
-import { Header, Footer, PageTitle, Contact, AboutMe, CodePortfolio, Portfolio } from './components/common'
+import { Header, Footer, PageTitle, Contact, AboutMe, CodePortfolio, Portfolio, Home } from './components/common'
 
 import './App.css';
 
@@ -21,6 +21,7 @@ function App() {
             </Route>
             <Route path="/Code-Portfolio">
               <PageTitle title="Code Portfolio"/>
+                <p>Drag your mouse over the names of the project to view them</p>
               <CodePortfolio />
             </Route>
             <Route path="/Contact">
@@ -32,6 +33,7 @@ function App() {
             </Route>
             <Route path="/">
               <PageTitle title="home"/>
+                <Home />
             </Route>
           </Switch>
       <Footer />

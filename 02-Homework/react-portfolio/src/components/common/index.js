@@ -6,6 +6,7 @@ import Contact from './Contact';
 import Portfolio from './portfolio';
 import CodePortfolio from './codePortfolio';
 import AboutMe from './AboutMe';
+import Home from './home';
 
 
 
@@ -19,6 +20,6 @@ export {
     Portfolio,
     CodePortfolio,
     AboutMe,
-    
+    Home,
 
 }
